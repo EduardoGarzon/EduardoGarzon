@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning some programim languages like Javascript (and HTML, CSS as well), C and I want to learn more about pyton;
 
-- 💞️ I’m looking to collaborate on helping people by learning their codes, share knoldges about tech, 
-     and I am a really open mind person to learn and hope to be useful to something; 
+- :raising_hand_man: I’m looking to collaborate on helping people by learning their codes, share knoldges about tech, 
+  and I am a really open mind person to learn and hope to be useful to something; 
 
 - 📫 How to reach me: luizeduardo3131@gmail.com (my professional email);
 
