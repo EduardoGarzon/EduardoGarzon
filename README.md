@@ -9,6 +9,8 @@
 
 - 📫 How to reach me: luizeduardo3131@gmail.com (my professional email);
 
+- Here you can find my Likedin profile: https://www.linkedin.com/in/luiz-eduardo-garzon-de-oliveira-485b44236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzB2vStF1SCi1wOUtsR2uxg%3D%3D
+
 <!---
 EduardoGarzon/EduardoGarzon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
