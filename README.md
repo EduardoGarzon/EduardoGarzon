@@ -2,9 +2,9 @@
 
 - 👀 I'm a person who likes technology and I am looking forward to improve my knowledge about technology and programming languages;
 
-- 🌱 I’m currently learning some programim languages like Javascript (and HTML, CSS as well), C and I want to learn more about python;
+- 🌱 I’m currently learning some programim languages like Javascript (and HTML, CSS as well), C, C++ and I want to learn more about Java;
 
-- :raising_hand_man: I’m looking to collaborate on helping people by learning their codes, share knoldges about tech, 
+- :raising_hand_man: I’m looking to collaborate on helping people by learning their codes, share knowledges about tech, 
   and I am a really open mind person to learn and hope to be useful to something; 
 
 - 📫 How to reach me: luizeduardo3131@gmail.com (my professional email);
